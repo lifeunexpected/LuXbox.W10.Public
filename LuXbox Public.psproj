@@ -1,0 +1,15 @@
+﻿<Project Synchronized="False" SyncFilter="*.ps1;*.psm1;*.psd1;*.ps1xml;*.psf;*.pss;*.xml;*.help.txt">
+  <Version>2.1</Version>
+  <FileID>56f1b59b-1518-4251-8b96-c51d786f202d</FileID>
+  <ProjectType>0</ProjectType>
+  <Folders />
+  <Files>
+    <File Build="0">Startup.pss</File>
+    <File Build="0" Shared="True" ReferenceFunction="Invoke-Global_ps1">Globals.ps1</File>
+    <File Build="0" ReferenceFunction="Show-MainMenu_psf">MainMenu.psf</File>
+    <File Build="0" ReferenceFunction="Show-Printers_psf">Printers.psf</File>
+    <File Build="0" ReferenceFunction="Show-About_psf">About.psf</File>
+    <File Build="0" ReferenceFunction="Show-Changelog_psf">Changelog.psf</File>
+    <File Build="0" ReferenceFunction="Show-RecommendedToDo_psf">RecommendedToDo.psf</File>
+  </Files>
+</Project>

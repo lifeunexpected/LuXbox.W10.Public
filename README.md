@@ -1,4 +1,7 @@
 # LuXbox 
+
+![](https://i.ibb.co/4VF03ZF/Team-Fluffy-Dinosaurs-v3.png)
+
 Made for: Windows 10
 
 The software below is made with Sapien PowerShell Studio 2018 and 2019.
